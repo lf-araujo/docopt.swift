@@ -45,7 +45,7 @@ Swift:
 
 Swift Package Manager:
 ```swift
-.package(url: "https://github.com/docopt/docopt.swift", from: "0.6.6"),
+.package(url: "https://github.com/lf-araujo/docopt.swift", from: "0.0.1"),
 ```
 
 Or even easier, simply write a marathon script and add the following to the beginning of it:
