@@ -51,7 +51,7 @@ Swift Package Manager:
 Or even easier, simply write a marathon script and add the following to the beginning of it:
 
 ```swift
-import Docopt // marathon: /home/luis/Dropbox/Documentos/Coding/Swift/docopt.swift
+import Docopt // marathon: https://github.com/lf-araujo/docopt.swift
 ```
 
 License
